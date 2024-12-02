@@ -12,4 +12,4 @@ Repositório referente ao projeto integrado da Equipe 4 nas disciplinas de Siste
 + Pedro Novaes - Análise de Processos (phln@cin.ufpe.br)
 + Talisson Silva - Gestão de Projetos/Análise de Processos (tsms@cin.ufpe.br)
   
-**Trello/Jira/Notion:** https://trello.com/b/D7Gpmx0L/projeto-integrado-sge-gpn-pgp-g4-20242</br>
+**Trello:** https://trello.com/b/D7Gpmx0L/projeto-integrado-sge-gpn-pgp-g4-20242</br>
